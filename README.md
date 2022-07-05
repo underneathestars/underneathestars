@@ -1,4 +1,6 @@
-<img src="https://i.ibb.co/kmPk5mb/Hi-I-m-Federica.png" alt="Hi-I-m-Federica" border="0" style="margin: 0 auto">
+<p align="center">
+  <img src="https://i.ibb.co/kmPk5mb/Hi-I-m-Federica.png" alt="Hi-I-m-Federica" border="0">
+</p><
 
 
 - 🌱 I’m A Junior Front-End Developer.
